@@ -2,7 +2,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on Rkysona pvt ltd company Nagpur [scholarsworld](https://scholarsworld.co.in/)
-
+(https://advinamulhaque.com/)
+(https://data.noticeboy.com)
+(https://shashiconstruction.com/)
 - 🌱 I’m currently learning **Web developement**
 
 - 💬 Ask me about **Html, Css, JS, Bootstrap, ReactJs, Larave, Photoshopl**
